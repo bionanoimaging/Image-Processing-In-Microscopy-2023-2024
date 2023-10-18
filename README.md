@@ -26,13 +26,13 @@ Officially, over Friedolin. Remember to register for the lecture, the exercises 
 ## Code
 To download the files, we recommend `git`:
 ```
-git clone git@https://github.com/hzarei4/Image-Processing-In-Microscopy-WS2023-24.git
+git clone git@https://https://github.com/bionanoimaging/Image-Processing-In-Microscopy-2023-2024.git
 ```
 Usually via a _git pull_ you can update the code. If anything goes wrong which you can't fix, clone it again to a new folder.
 
 
 ### Julia Installation
-Download the recent version 1.8.2 on the [Julia Website](https://julialang.org/downloads/).
+Download the recent version 1.9.3 on the [Julia Website](https://julialang.org/downloads/).
 
 #### Editor
 We recommend using [Visual Studio Code](https://www.julia-vscode.org/), especially install the Julia and git plugin for VSCode.
@@ -52,13 +52,13 @@ Try to type:
 julia> using Pluto # type y to install Pluto
  │ Package Pluto not found, but a package named Pluto is available from a registry. 
  │ Install package?
- │   (@v1.8) pkg> add Pluto 
+ │   (@v1.9) pkg> add Pluto 
  └ (y/n/o) [y]: y
 
 
 julia> Pluto.run()
 
-Opening http://localhost:1235/?secret=sdCsckRR in your default browser... ~ have fun!
+Opening http://localhost:1234/?secret=tiTBsJKJ in your default browser... ~ have fun!
 
 Press Ctrl+C in this terminal to stop Pluto
 ```
